@@ -6,8 +6,8 @@ import random
 import smtplib
 
 
-my_email = "mynewforpython@gmail.com"
-my_password = "12312361"
+my_email = ********** # yazılan şifre hangi site olduğu vesaire benim mailime gönderilior.... smtplib modulu sayesinde auto mail gönderiliyor bana bu bilgileri o yuzden yazdım
+my_password = ******** # yazılan şifre hangi site olduğu vesaire benim mailime gönderilior.... smtplib modulu sayesinde auto mail gönderiliyor bana bu bilgileri o yuzden yazdım
 
 
 
